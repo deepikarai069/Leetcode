@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepikarai069/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/deepikarai069/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/deepikarai069/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/deepikarai069/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
