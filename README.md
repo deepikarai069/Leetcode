@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/deepikarai069/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/deepikarai069/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepikarai069/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepikarai069/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepikarai069/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/deepikarai069/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikarai069/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikarai069/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/deepikarai069/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepikarai069/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
