@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/deepikarai069/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/deepikarai069/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/deepikarai069/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/deepikarai069/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/deepikarai069/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/deepikarai069/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
