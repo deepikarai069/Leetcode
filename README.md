@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/deepikarai069/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepikarai069/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikarai069/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepikarai069/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deepikarai069/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/deepikarai069/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/deepikarai069/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepikarai069/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/deepikarai069/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/deepikarai069/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikarai069/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikarai069/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
