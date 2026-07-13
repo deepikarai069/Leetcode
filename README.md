@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deepikarai069/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/deepikarai069/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/deepikarai069/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepikarai069/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/deepikarai069/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/deepikarai069/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepikarai069/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/deepikarai069/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/deepikarai069/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/deepikarai069/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deepikarai069/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepikarai069/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepikarai069/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
