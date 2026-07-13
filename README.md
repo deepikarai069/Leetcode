@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/deepikarai069/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/deepikarai069/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/deepikarai069/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepikarai069/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepikarai069/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deepikarai069/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/deepikarai069/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0048-rotate-image](https://github.com/deepikarai069/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/deepikarai069/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepikarai069/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/deepikarai069/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/deepikarai069/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikarai069/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
