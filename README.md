@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/deepikarai069/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/deepikarai069/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepikarai069/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepikarai069/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/deepikarai069/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepikarai069/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/deepikarai069/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
