@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/deepikarai069/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepikarai069/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepikarai069/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepikarai069/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepikarai069/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepikarai069/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/deepikarai069/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/deepikarai069/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/deepikarai069/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepikarai069/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/deepikarai069/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/deepikarai069/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikarai069/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/deepikarai069/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepikarai069/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepikarai069/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepikarai069/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/deepikarai069/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikarai069/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
