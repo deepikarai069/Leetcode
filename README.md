@@ -584,5 +584,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/deepikarai069/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/deepikarai069/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/deepikarai069/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
