@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/deepikarai069/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/deepikarai069/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/deepikarai069/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/deepikarai069/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepikarai069/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/deepikarai069/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/deepikarai069/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/deepikarai069/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepikarai069/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/deepikarai069/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/deepikarai069/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/deepikarai069/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
