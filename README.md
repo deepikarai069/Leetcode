@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/deepikarai069/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/deepikarai069/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/deepikarai069/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepikarai069/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/deepikarai069/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/deepikarai069/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepikarai069/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/deepikarai069/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/deepikarai069/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/deepikarai069/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepikarai069/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Nim Game
