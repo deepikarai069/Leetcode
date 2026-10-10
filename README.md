@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/deepikarai069/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepikarai069/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deepikarai069/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikarai069/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepikarai069/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepikarai069/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepikarai069/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepikarai069/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepikarai069/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikarai069/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepikarai069/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepikarai069/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/deepikarai069/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/deepikarai069/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepikarai069/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikarai069/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepikarai069/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepikarai069/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepikarai069/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepikarai069/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikarai069/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikarai069/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepikarai069/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepikarai069/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepikarai069/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -488,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepikarai069/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/deepikarai069/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
