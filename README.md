@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/deepikarai069/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepikarai069/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepikarai069/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepikarai069/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/deepikarai069/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepikarai069/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepikarai069/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepikarai069/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepikarai069/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/deepikarai069/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/deepikarai069/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepikarai069/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/deepikarai069/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepikarai069/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepikarai069/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepikarai069/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/deepikarai069/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/deepikarai069/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/deepikarai069/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepikarai069/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/deepikarai069/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/deepikarai069/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -356,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepikarai069/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/deepikarai069/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deepikarai069/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deepikarai069/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikarai069/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -410,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/deepikarai069/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/deepikarai069/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikarai069/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikarai069/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -504,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepikarai069/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/deepikarai069/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikarai069/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepikarai069/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -557,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/deepikarai069/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepikarai069/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepikarai069/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepikarai069/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -672,4 +682,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepikarai069/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikarai069/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepikarai069/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepikarai069/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
