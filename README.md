@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/deepikarai069/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/deepikarai069/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deepikarai069/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/deepikarai069/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepikarai069/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepikarai069/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/deepikarai069/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/deepikarai069/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deepikarai069/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/deepikarai069/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/deepikarai069/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/deepikarai069/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
