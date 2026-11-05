@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/deepikarai069/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0493-reverse-pairs](https://github.com/deepikarai069/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepikarai069/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepikarai069/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deepikarai069/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepikarai069/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/deepikarai069/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikarai069/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepikarai069/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/deepikarai069/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/deepikarai069/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/deepikarai069/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/deepikarai069/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepikarai069/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepikarai069/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepikarai069/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikarai069/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -610,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/deepikarai069/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/deepikarai069/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepikarai069/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepikarai069/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepikarai069/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepikarai069/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepikarai069/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
